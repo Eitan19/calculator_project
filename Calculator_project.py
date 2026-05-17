@@ -8,4 +8,6 @@ def sub(a,b):
     return a -b
 def divide(a, b):
     return a / b
-print(divide(10, 2))
+def power(a, b):
+    return a ** b
+print(power(10, 2))
